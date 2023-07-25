@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 903914aae389c074087c0564331ab02f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - winText: {instanceID: 0}
+  - StarEffect: {fileID: 19800006, guid: 8fc06027b01064e4f885fd8dd2929310, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
